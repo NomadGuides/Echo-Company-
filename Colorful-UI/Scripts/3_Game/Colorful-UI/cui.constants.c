@@ -38,13 +38,13 @@ class GameOverScreen
 // SOCIALS & LINKS ---------------------------------------------------------------
 // Set your links Here
 class MenuURLS {
-	static string urlDiscord   = "#";
+	static string urlDiscord   = "https://discord.gg/GKpytqBmgP";
 	static string urlFacebook  = "#";
 	static string urlTwitter   = "#";
-	static string urlReddit    = "#";
+	static string urlReddit    = "https://www.reddit.com/user/Ancient_Speech8854/";
 	static string urlYoutube   = "#";
-	static string urlWebsite   = "#"; 
-	static string urlPriorityQ = "#";
+	static string urlWebsite   = "http://echocompanyservers.com/"; 
+	static string urlPriorityQ = "https://discord.com/servers/echo-company-dayz-servers-1250854010353750198";
 	static string urlCustom    = "#";
 }
 
